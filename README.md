@@ -1,0 +1,2 @@
+# sporokulu-yonetim
+sporokulu-yonetim
